@@ -27,17 +27,13 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](rmarkdown-rocks_files/figure-markdown_github/pressure-1.png)
+    ## [1] -0.3824962  1.1152155  0.3458820  1.7150791  0.4888917  0.4874095
+
+![](rmarkdown-rocks_files/figure-markdown_github/density-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 Test latex
 ----------
 
--   Let's try
-
-``` latex
-\begin{equation}
-\chi
-\end{equation}
-```
+-   Let's try *χ*=𝒫 k
