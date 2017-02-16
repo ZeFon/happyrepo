@@ -27,7 +27,7 @@ Including Plots
 
 You can also embed plots, for example:
 
-    ## [1] -0.69008660 -1.08938777  1.24323719 -0.08871275  0.08948951 -0.49290521
+    ## [1] 10.505518  9.879677 10.032996 10.902333 11.048206 12.007450
 
 ![](rmarkdown-rocks_files/figure-markdown_github/density-1.png)
 

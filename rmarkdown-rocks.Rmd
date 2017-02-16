@@ -24,7 +24,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r density, echo=FALSE}
-x<-rnorm(1000)
+x<-rnorm(1000) +10
 head(x)
 plot(density(x))
 ```
