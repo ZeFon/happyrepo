@@ -27,7 +27,7 @@ Including Plots
 
 You can also embed plots, for example:
 
-    ## [1] -0.3824962  1.1152155  0.3458820  1.7150791  0.4888917  0.4874095
+    ## [1] -0.69008660 -1.08938777  1.24323719 -0.08871275  0.08948951 -0.49290521
 
 ![](rmarkdown-rocks_files/figure-markdown_github/density-1.png)
 
@@ -37,3 +37,5 @@ Test latex
 ----------
 
 -   Let's try *χ*=𝒫 k
+
+*a* = *b*

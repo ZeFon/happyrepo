@@ -35,3 +35,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 * Let's try $\chi$=$\mathcal{P}$ k
 
+$\begin{equation}
+a=b
+\end{equation}$
